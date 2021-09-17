@@ -119,4 +119,4 @@ Verify that predicted diabetes diagnosis is returned.
 ![](Evidences/Image28.png)
 
 
-### [<-- Back to readme](../../)
+### [<-- Back to readme](../../../../)
